@@ -85,5 +85,5 @@ map.add_child(fg_markers)
 map.get_root().html.add_child(folium.Element(legend_html))
 # add legend_html to the map
 
-map.save('capitals.html')
+map.save('index.html')
 # save script in an HTML file for browser display
